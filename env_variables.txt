@@ -1,0 +1,2 @@
+// debud installation
+https://forum-archive.vuejs.org/topic/4011/unexpected-token-import-after-starting-with-vue-cli-and-webpack/4
